@@ -1,0 +1,20 @@
+#main .menu[data-v-27d8b723] {
+  left: calc(50% - 75px);
+  width: 150px;
+  height: 54px;
+}
+
+#main .xicon.menu .i-icon-hamburger-button:after {
+  content: ' 点此展开';
+  font-size: 16px;
+  line-height: 54px;
+}
+
+#main .xicon.menu span.i-icon.i-icon-close-small:after {
+  content: ' 点此收起';
+  font-size: 16px;
+  line-height: 54px;
+}
+#main .xicon.menu .i-icon svg {
+  vertical-align: middle;
+}
