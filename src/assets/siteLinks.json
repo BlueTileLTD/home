@@ -1,8 +1,13 @@
 [
   {
     "icon": "Blog",
-    "name": "官网",
+    "name": "官网①",
     "link": "https://one.bluetile.biz/"
+  },
+  {
+    "icon": "Compass",
+    "name": "官网②",
+    "link": "https://px.bluetile.cloud/"
   },
   {
     "icon": "Cloud",
@@ -12,12 +17,7 @@
   {
     "icon": "Book",
     "name": "使用文档",
-    "link": "https://bluetile.gitbook.io/tutorials"
-  },
-  {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://one.bluetile.biz/"
+    "link": "https://wb.bluetile.biz"
   },
   {
     "icon": "Book",
@@ -27,6 +27,6 @@
   {
     "icon": "LaptopCode",
     "name": "服务监测",
-    "link": "http://43.198.199.105:3001/status/bluetile"
+    "link": "https://tx.bluetile.biz/status/bluetile"
   }
 ]
